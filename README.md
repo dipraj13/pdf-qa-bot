@@ -17,6 +17,8 @@ Go to Google AI Console
 Generate an API Key
 Set API Key in Environment
 
+## Create .env file in backend folder and store following in it
+
 ### GEMINI_API_KEY = your_key
 
 ## I might have deleted my api key by the time you see this so pls create you gemini api key , its pretty easy
