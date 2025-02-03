@@ -1,16 +1,16 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/node_modules
-/.pnp
+pdf-qa-bot/node_modules
+pdf-qa-bot/.pnp
 .pnp.js
-/.env
+backend/.env
 
 # testing
-/coverage
+pdf-qa-bot/coverage
 
 # production
-/build
+pdf-qa-bot/build
 
 # misc
 .DS_Store
